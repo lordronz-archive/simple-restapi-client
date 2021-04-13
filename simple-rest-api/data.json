@@ -1,0 +1,38 @@
+[
+    {
+        "username": "qwerty",
+        "age": 69,
+        "languages": ["C/C++", "Javascript", "Elixir"]
+    },
+    {
+        "username": "uiop",
+        "age": 96,
+        "languages": ["Haskell", "Ruby", "COBOL", "Java"]
+    },
+    {
+        "username": "asdfg",
+        "age": 42,
+        "languages": ["Python", "Ada", "PHP", "Rust"]
+    },
+    {
+        "username": "hjkl",
+        "age": 9,
+        "languages": ["Python", "Julia", "Javascript", "Bash", "Perl"]
+    },
+    { "username": "zxcv", "age": -1, "languages": ["HTML", "XML", "YML"] },
+    {
+        "username": "bnm",
+        "age": 99999,
+        "languages": ["Assembly", "FORTRAN", "BASIC", "LISP", "Pascal"]
+    },
+    {
+        "username": "ponyo",
+        "age": 66,
+        "languages": ["Python", "Go", "Typescript"]
+    },
+    {
+        "username": "yonpo",
+        "age": 66,
+        "languages": ["Python", "Elixir", "Typescript"]
+    }
+]
