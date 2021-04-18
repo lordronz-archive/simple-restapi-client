@@ -17,6 +17,11 @@ const axios = require('axios');
 // }
 
 
-axios.get('http://localhost:3000/ponyo').then((res) => {
+axios.get('http://localhost:3000/user/getall').then((res) => {
     console.log(res.data);
+});
+
+
+axios.get('http://localhost:3000/user/getuser/newuser').then(() => {
+    //console.log(res.data);
 });
