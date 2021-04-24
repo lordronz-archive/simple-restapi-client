@@ -22,8 +22,7 @@ userRouter.get('/getall', async (req, res) => {
 
 userRouter.get('/getuser/:username', async (req, res) => {
     const user = await User.find({ username: req.params.username });
-    console.log(user);
-    res.send('user');
+    res.send(user);
 });
 
 module.exports = userRouter;
